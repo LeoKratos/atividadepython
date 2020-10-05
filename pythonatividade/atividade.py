@@ -1,0 +1,1 @@
+for k in range(-2,-6,-2): print (k)
